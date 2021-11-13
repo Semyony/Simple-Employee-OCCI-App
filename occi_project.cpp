@@ -37,9 +37,9 @@ int main() {
 	Connection* conn = nullptr;
 
 	string str;
-	string usr = "dbs211_212d18";
-	string pass = "13162129";
-	string srv = "myoracle12c.senecacollege.ca:1521/oracle12c";
+	string usr = "";
+	string pass = "";
+	string srv = "";
 
 	try {
 		int empnum = 0; // employee number fo WHERE statement
